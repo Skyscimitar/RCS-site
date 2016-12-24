@@ -273,6 +273,7 @@ ul.contact li a.icon-rss:before
 	background: url(images/banner.jpg) no-repeat center;
 	background-size: cover;
 	border-top: 10px solid #CC0000;
+	height: 100%;
 }
 
 #header
